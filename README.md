@@ -1,8 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a python minecraft mod loader (which is private)
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on simple python projects (I understand)
-- 😄 Pronouns: He/Him
 <!--
 **Timba2011/Timba2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
